@@ -11,12 +11,12 @@ function Navbar() {
                 </h3>
                 <ul>
                 <li>
-                    <Link to="/contacts" className="btn">
+                    <Link to="/1" className="btn">
                         Контактная информация
                     </Link>
                 </li>
                 <li>
-                    <Link to="/donate" className="btn">
+                    <Link to="/2" className="btn">
                         Задонатить
                     </Link>
                 </li>

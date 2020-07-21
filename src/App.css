@@ -16,12 +16,10 @@ img {
   border-radius: 20px;
   opacity: 80%;
   filter: drop-shadow(0 0 5px black);
-  transition: size 0.5s ease;
+  /* transition: size 0.5s ease; */
 }
 
-.img:hover {
-  width: 200%
-}
+
 
 ul {
   list-style: none;
@@ -33,7 +31,7 @@ a {
 
 .navbar {
   
-  display: none;
+  display: flex;
   justify-content: space-between;
   align-items: center;
   padding: 0.7rem 2rem;

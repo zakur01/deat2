@@ -13,8 +13,8 @@ function App() {
         <Navbar />
           <Switch>
             <Route exact path="/" component={Mainpage} />
-            <Route exact path="/contacts" component={Contacts} />
-            <Route exact path="/donate" component={Donate} />
+            <Route exact path="/1" component={Contacts} />
+            <Route exact path="/2" component={Donate} />
           </Switch>
       </Fragment>
     </Router>

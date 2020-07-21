@@ -5,7 +5,7 @@ function Navbar() {
     return (
             <nav className="navbar">
                 <h3>
-                    <Link to='/' className="btn">
+                    <Link to='/' className="btn1">
                             На главную
                     </Link>
                 </h3>

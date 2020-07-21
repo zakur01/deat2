@@ -7,8 +7,7 @@ function Donate() {
         <div  className="landing">
             <div className="dark-overlay">
             <div className="landing-inner">
-                DONATE
-            <img src={require('../img/22.jpg')} alt="" width="250px" height="350px" />
+            <img src="https://media.giphy.com/media/3o6Mb5WxERQyuy7qJa/giphy.gif" alt="" width="400px" height="350px" />
             </div>
             </div>
         </div>

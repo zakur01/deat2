@@ -1,4 +1,5 @@
-import React from 'react'
+import React from 'react';
+import { Link } from "react-router-dom"
 
 
 
@@ -8,12 +9,14 @@ function contacts() {
         <div  className="landing">
             <div className="dark-overlay">
                 <div className="landing-inner">
-                    Tel: 0555-23-05-53
-                     <br></br>
-                    Email: sunnyhako324@gmail.com
-                    </div>
+                    <Link to="/2">
+                <img src={require('../img/ufo.gif')} alt="" width="550px" height="550px" />
+                        
+                    </Link>
+
         </div>
-        </div>
+            </div>
+            </div>
     )
 }
 

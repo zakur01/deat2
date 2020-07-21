@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/husk/static/css/main.07e5b9ab.chunk.css",
+    "main.js": "/husk/static/js/main.eefeaf83.chunk.js",
+    "main.js.map": "/husk/static/js/main.eefeaf83.chunk.js.map",
+    "runtime-main.js": "/husk/static/js/runtime-main.cbe39216.js",
+    "runtime-main.js.map": "/husk/static/js/runtime-main.cbe39216.js.map",
+    "static/js/2.f1b296c2.chunk.js": "/husk/static/js/2.f1b296c2.chunk.js",
+    "static/js/2.f1b296c2.chunk.js.map": "/husk/static/js/2.f1b296c2.chunk.js.map",
+    "index.html": "/husk/index.html",
+    "precache-manifest.37c3beb348521b7a4bfa723c5249cf1c.js": "/husk/precache-manifest.37c3beb348521b7a4bfa723c5249cf1c.js",
+    "service-worker.js": "/husk/service-worker.js",
+    "static/css/main.07e5b9ab.chunk.css.map": "/husk/static/css/main.07e5b9ab.chunk.css.map",
+    "static/js/2.f1b296c2.chunk.js.LICENSE.txt": "/husk/static/js/2.f1b296c2.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/husk/static/media/back.4dbc02c4.jpg",
+    "static/media/ufo.gif": "/husk/static/media/ufo.a38e3653.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cbe39216.js",
+    "static/js/2.f1b296c2.chunk.js",
+    "static/css/main.07e5b9ab.chunk.css",
+    "static/js/main.eefeaf83.chunk.js"
+  ]
+}
